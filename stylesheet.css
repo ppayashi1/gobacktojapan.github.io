@@ -26,7 +26,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://prog-8.com/images/html/advanced/top.png);
+  background-image: url(IMG_3511_2.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -52,7 +52,7 @@ a {
 }
 
 .signup {
-  background-color: #239b76;
+  background-color: #FF6666;
 }
 
 .btn {
@@ -82,8 +82,8 @@ header {
 }
 
 .logo {
-  width: 124px;
-  margin-top: 20px;
+  width: 184px;
+  margin-top: 15px;
 }
 
 .header-left {
@@ -146,7 +146,7 @@ header {
 
 .lesson-icon p {
   position: absolute;
-  top: 40%;
+  top: 38%;
   width: 100%;
   color: white;
 }
@@ -171,9 +171,9 @@ header {
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #FF6666;
   cursor: pointer;
-  box-shadow: 0 7px #1a7940;
+  box-shadow: 0 7px #FF3333;
 }
 
 .message:active {
@@ -203,6 +203,11 @@ header {
 
 .instagram{
   background-color: #d6249f;
+  margin-right: 10px;
+}
+
+.blog{
+  background-color: #FFD700;
 }
 
 footer img {
